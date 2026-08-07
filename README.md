@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**生死渡口，勇者的史诗** (2026-08-06)
+**迈向无限** (2026-08-08)
 
-![生死渡口，勇者的史诗](https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![迈向无限](https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)](https://www.bing.com/search?q=%E8%A7%92%E9%A9%AC&form=hpcapt&mkt=zh-cn)
+[蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)](https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E6%97%A0%E9%99%90%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-08 月壁纸 (6 张)
+## 2026-08 月壁纸 (7 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="生死渡口，勇者的史诗" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-08-06</strong> <a href="https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>生死渡口，勇者的史诗</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="秘境之门，匠心传世" style="width: 100%; border-radius: 8px;">
